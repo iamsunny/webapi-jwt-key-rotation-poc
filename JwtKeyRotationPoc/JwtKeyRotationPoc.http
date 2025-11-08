@@ -1,0 +1,6 @@
+@JwtKeyRotationPoc_HostAddress = http://localhost:5166
+
+GET {{JwtKeyRotationPoc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
